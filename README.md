@@ -105,10 +105,12 @@ https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/
 
 
 ### 2. WebGL
-|Desktop Browser  |note   |
-|-----------------|-------|
+|Desktop Browser  |note    |
+|-----------------|--------|
 |Internet Explorer|ie11 이상|
-|Others           |ok   |
+|Others           |ok      |
+
+* OpenGL ES 2.0 기반
 * mdn WebGL   
 https://developer.mozilla.org/ko/docs/Web/API/WebGL_API
 * three.js   
