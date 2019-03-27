@@ -23,9 +23,9 @@ https://www.chromium.org/flash-roadmap
 https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/
    > 2019 년 중후반에 Microsoft Edge와 Internet Explorer에서 기본적으로 Flash가 비활성화됩니다. 사용자는 두 브라우저 모두에서 Flash를 다시 활성화 할 수 있습니다. 다시 활성화되면 Microsoft Edge는 사이트별로 플래시에 대한 승인을 계속 요구할 것입니다.
 
-* 2018년 1월 네이버지도 베타에서 로드뷰 플래시 제거 WebGL 방식으로 변경
-https://beta.map.naver.com
-https://naver.github.io/egjs-view360/panoviewer.html
+* 2018년 네이버지도 베타에서 로드뷰 플래시 제거 WebGL 방식으로 변경   
+https://beta.map.naver.com   
+https://naver.github.io/egjs-view360/panoviewer.html   
 
 * 7월쯤 배포될 예정인 Chrome 76 부터는 경고문구 계속 노출   
 https://9to5google.com/2019/03/22/chrome-warn-flash-player-deprecation-july/
