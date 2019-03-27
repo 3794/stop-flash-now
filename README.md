@@ -27,7 +27,9 @@ https://www.codingfactory.net/10939
 * mdn SVG     
 https://developer.mozilla.org/ko/docs/Web/SVG
 * d3.js   
-https://d3js.org/
+https://d3js.org/   
+<img src="https://github.com/3794/stop-flash-now/blob/master/assets/d3.gif"></img>
+
 
 ### 3. Canvas
 |Desktop Browser  |note   |
