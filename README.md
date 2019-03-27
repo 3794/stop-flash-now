@@ -81,12 +81,8 @@ https://phaser.io/
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/phaser.gif"></img>
 
 ### SVG vs Canvas
-* tcpschool   
-http://tcpschool.com/html/html5_graphic_canvasVsSvg
-<img src="https://github.com/3794/stop-flash-now/blob/master/assets/canvas_svg.png"></img>
-
-> canvas 요소의 성능은 화면이 작거나, 픽셀 수가 많을 경우(>10k)에 좋습니다.   
- svg 요소의 성능은 화면이 크거나, 픽셀 수가 적을 경우(<10k)에 좋습니다.
+* SVG는 적은 수의 오브젝트로 is probably better for applications and apps with few items
+Canvas is better for thousands of objects and careful manipulation, but a lot more code (or a library) is needed to get it off the ground
 
 ## 3D
 
