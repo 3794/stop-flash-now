@@ -13,6 +13,8 @@ Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 �
 
 * mdn css transform   
 https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
+* codingfactory 2D 확대 또는 축소하기
+https://www.codingfactory.net/10939
 
 ### 2. SVG
 |Desktop Browser  |note   |
