@@ -70,6 +70,17 @@ https://threejs.org/
 http://greggman.github.io/tdl/example/example.html   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/tdl.gif"></img>
 
+## 그외
+### WebAssembly
+|Desktop Browser  |note   |
+|-----------------|-------|
+|Internet Explorer|지원안함 |
+|Others           |ok    |
+
+https://webassembly.org/demo/   
+https://developer.mozilla.org/ko/docs/WebAssembly   
+https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875   
+https://d2jta7o2zej4pf.cloudfront.net/   
 
 ## News
 * Microsoft IE 10 이하 지원 중단   
