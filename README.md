@@ -81,6 +81,8 @@ https://phaser.io/
 http://tcpschool.com/html/html5_graphic_canvasVsSvg
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/canvas_svg.png"></img>
 
+> canvas 요소의 성능은 화면이 작거나, 픽셀 수가 많을 경우(>10k)에 좋습니다.   
+ svg 요소의 성능은 화면이 크거나, 픽셀 수가 적을 경우(<10k)에 좋습니다.
 
 ## 3D
 
