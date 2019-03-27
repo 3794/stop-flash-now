@@ -39,6 +39,7 @@ https://d3js.org/
 https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
 * phaser (canvas game engine)   
 https://phaser.io/
+<img src="https://github.com/3794/stop-flash-now/blob/master/assets/phaser.gif"></img>
 
 ## 3D
 
