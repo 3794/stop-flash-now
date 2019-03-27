@@ -68,6 +68,7 @@ https://developer.mozilla.org/ko/docs/WebAssembly
 ## News
 * Adobe flash 지원 중단   
 https://theblog.adobe.com/adobe-flash-update/
+> 특히 2020 년 말에 Flash Player를 업데이트하고 배포하는 것을 중단하고 기존의 Flash는 오픈 웹 포멧으로 마이그레이션하도록 권장 할 것입니다.
 
 * Chrome Flash 제거 계획   
 https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/
