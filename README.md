@@ -1,7 +1,7 @@
 # Stop Flash Now
 ## 플래시를 없애자!
 
-Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 중단하기로 하였습니다. 크롬은 2020년 12월에 플래시를 크롬에서 제거하기로 하였습니다. 그래서 그전에 기존 플래시 모듈은 전부 제거 되어야 합니다. 2020년 까지 관련 뉴스를 정리하고, 플래시를 대체하는 기술들에 대해 소개하도록 하겠습니다.
+Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 중단하기로 하였습니다. 크롬은 2020년 12월에 플래시를 크롬에서 제거하기로 하였습니다. 그래서 그전에 기존 플래시 모듈은 전부 제거 되어야 합니다. 2020년 까지 관련 뉴스를 정리하고, 플래시를 대체하는 기술들에 대해 소개합니다.
 
 ## 2D
 
@@ -50,7 +50,7 @@ https://phaser.io/
 |-----------------|-------|
 |Internet Explorer|ie10 이상 부분지원|
 |Others           |ok   |
-* mdn css transform 문서   
+* mdn css transform   
 https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 
 ### 2. WebGL
