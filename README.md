@@ -24,6 +24,8 @@ https://www.codingfactory.net/10939
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
+벡터 그래픽을 표현하기 위한 표준 XML 마크업 랭귀지
+
 * mdn SVG     
 https://developer.mozilla.org/ko/docs/Web/SVG
 * d3.js   
