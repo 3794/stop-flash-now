@@ -85,9 +85,9 @@ https://smus.com/canvas-vs-svg-performance/
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/varying-number-of-objects.png"></img>     
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/varying-drawing-area-height.png"></img>     
 
-* 드로윙할 오브젝트가 증가할 수록 SVG는 canvas에 비해 가파르게 렌더링 시간이 증가한다
-* 드로윙 영역이 커질 수록 canvas는 SVG에 비해 가파르게 렌더링 시간이 증가한다
-* SVG는 드로윙할 오브젝트의수가 적은경우일 수록 좋다
+* 드로윙할 오브젝트가 증가할 수록 svg는 canvas에 비해 가파르게 렌더링 시간이 증가한다
+* 드로윙 영역이 커질 수록 canvas는 svg에 비해 가파르게 렌더링 시간이 증가한다
+* svg는 드로윙할 오브젝트의수가 적은경우일 수록 좋다
 * 수천개의 오브젝트를 조작하려면 canvas가 좋다
 
 
