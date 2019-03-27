@@ -61,17 +61,6 @@ https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transform
 * mdn WebGL   
 https://developer.mozilla.org/ko/docs/Web/API/WebGL_API
 
-## 퍼포먼스
-
-### 1. WebAssembly
-|Desktop Browser  |note   |
-|-----------------|-------|
-|Internet Explorer|지원안함|
-|Others           |ok   |
-* mdn WebAssembly   
-https://developer.mozilla.org/ko/docs/WebAssembly   
-> 간단히 말해서 여러 언어로 작성된 코드들을 네이티브에 가까운 속도로 웹에서 돌릴 수 있는 길을 제공하며, 이전까지는 웹에서 돌려볼 수 없었던 클라이언트 앱들을 웹에서 돌릴 수 있도록 만들어주기 때문입니다.
-
 ## News
 * Microsoft IE 10 이하 지원 중단   
 https://www.microsoft.com/ko-kr/windowsforbusiness/end-of-ie-support
