@@ -59,11 +59,17 @@ https://theblog.adobe.com/adobe-flash-update/
 * Chrome Flash 제거 계획   
 https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/
 
+* Chromium 플래시 로드멥   
+https://www.chromium.org/flash-roadmap
+
 * Microsoft Edge, IE Flash 제거 계획   
 https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/
 
 * Microsoft IE 10 이하 지원 중단   
 https://www.microsoft.com/ko-kr/windowsforbusiness/end-of-ie-support
 
-* Chromium 플래시 로드멥   
-https://www.chromium.org/flash-roadmap
+* 7월쯤 배포될 예정인 Chrome 76 부터는 경고문구 계속 노출   
+https://9to5google.com/2019/03/22/chrome-warn-flash-player-deprecation-july/
+<img src="https://github.com/3794/stop-flash-now/blob/master/assets/chrome-flash-deprecation-warning.png"></img>
+
+
