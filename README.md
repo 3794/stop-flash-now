@@ -114,6 +114,9 @@ https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/
 |Others           |ok      |
 
 * OpenGL ES 2.0 기반
+* WebGL은 단순한 3D API가 아닌, 코드로 작성된 점과선의 위치를 계산해서 화면에 보여주는 엔진
+* https://webglfundamentals.org/webgl/lessons/ko/
+* https://webgl2fundamentals.org/webgl/lessons/ko/
 * mdn WebGL   
 https://developer.mozilla.org/ko/docs/Web/API/WebGL_API
 * three.js   
