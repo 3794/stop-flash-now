@@ -81,8 +81,13 @@ https://phaser.io/
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/phaser.gif"></img>
 
 ### SVG vs Canvas
-* SVG는 적은 수의 오브젝트로 is probably better for applications and apps with few items
-Canvas is better for thousands of objects and careful manipulation, but a lot more code (or a library) is needed to get it off the ground
+https://smus.com/canvas-vs-svg-performance/   
+<img src="https://github.com/3794/stop-flash-now/blob/master/assets/varying-number-of-objects.png"></img>   
+* SVG는 그려야할 오브젝트가 증가할 수록 canvas에 비해 가파르게 렌더링 시간이 증가한다
+* 오브젝트의 영역(픽셀)이 커질 수록 canvas에 비해 SVG가 렌더링시간이 빠르다
+* SVG는 그려야할 오브젝트의수가 적은경우일 수록 좋다
+* 수천개의 오브젝트를 조작하려면 canvas가 좋다
+
 
 ## 3D
 
