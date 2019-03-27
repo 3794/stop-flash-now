@@ -11,7 +11,8 @@ Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 �
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
-
+* mdn css transform   
+https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 
 ### 2. SVG
 |Desktop Browser  |note   |
@@ -19,6 +20,10 @@ Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 �
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
+* mdn SVG     
+https://developer.mozilla.org/ko/docs/Web/SVG
+* d3.js   
+https://d3js.org/
 
 ### 3. Canvas
 |Desktop Browser  |note   |
@@ -26,9 +31,9 @@ Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 �
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
-* mdn canvas 문서   
+* mdn canvas      
 https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
-* canvas game engine - phaser   
+* phaser (canvas game engine)   
 https://phaser.io/
 
 ## 3D
@@ -38,14 +43,16 @@ https://phaser.io/
 |-----------------|-------|
 |Internet Explorer|ie10 이상 부분지원|
 |Others           |ok   |
-
+* mdn css transform 문서   
+https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 
 ### 2. WebGL
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie11 이상|
 |Others           |ok   |
-
+* mdn WebGL   
+https://developer.mozilla.org/ko/docs/Web/API/WebGL_API
 
 
 ## 퍼포먼스
@@ -54,7 +61,9 @@ https://phaser.io/
 |-----------------|-------|
 |Internet Explorer|지원안함|
 |Others           |ok   |
-
+* mdn WebAssembly   
+https://developer.mozilla.org/ko/docs/WebAssembly   
+> 간단히 말해서 여러 언어로 작성된 코드들을 네이티브에 가까운 속도로 웹에서 돌릴 수 있는 길을 제공하며, 이전까지는 웹에서 돌려볼 수 없었던 클라이언트 앱들을 웹에서 돌릴 수 있도록 만들어주기 때문입니다.
 
 ## News
 * Adobe flash 지원 중단   
