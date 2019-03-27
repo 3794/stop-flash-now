@@ -68,19 +68,23 @@ https://developer.mozilla.org/ko/docs/WebAssembly
 ## News
 * Adobe flash 지원 중단   
 https://theblog.adobe.com/adobe-flash-update/
-> 특히 2020 년 말에 Flash Player를 업데이트하고 배포하는 것을 중단하고 기존의 Flash는 오픈 웹 포멧으로 마이그레이션하도록 권장 할 것입니다.
+   > 특히 2020 년 말에 Flash Player를 업데이트하고 배포하는 것을 중단하고 기존의 Flash는 오픈 웹 포멧으로 마이그레이션하도록 권장 할 것입니다.
 
 * Chrome Flash 제거 계획   
 https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/
+   >  결국 기본적으로 사용 중지하도록 설정하여 향후 몇 년 동안 플래시를 단계적으로 중단합니다.
 
 * Chromium 플래시 로드멥   
 https://www.chromium.org/flash-roadmap
 
 * Microsoft Edge, IE Flash 제거 계획   
 https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/
+   > 2019 년 중후반에 Microsoft Edge와 Internet Explorer에서 기본적으로 Flash가 비활성화됩니다. 사용자는 두 브라우저 모두에서 Flash를 다시 활성화 할 수 있습니다. 다시 활성화되면 Microsoft Edge는 사이트별로 플래시에 대한 승인을 계속 요구할 것입니다.
+
 
 * Microsoft IE 10 이하 지원 중단   
 https://www.microsoft.com/ko-kr/windowsforbusiness/end-of-ie-support
+   >  2016년 1월 12일 이후로 Microsoft는 이전 버전의 Internet Explorer에 대한 보안 업데이트나 기술 지원을 전혀 제공하지 않을 것입니다. 악성 코드가 악용할 수 있는 보안 취약점을 차단하고 사용자와 데이터를 보다 안전하게 보호하려면 보안 업데이트가 반드시 필요합니다.
 
 * 7월쯤 배포될 예정인 Chrome 76 부터는 경고문구 계속 노출   
 https://9to5google.com/2019/03/22/chrome-warn-flash-player-deprecation-july/
