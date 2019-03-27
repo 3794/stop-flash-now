@@ -51,10 +51,12 @@ https://www.codingfactory.net/10939
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
-벡터 그래픽을 표현하기 위한 표준 XML 마크업 랭귀지
-
+* 벡터 그래픽을 표현하기 위한 표준 XML 마크업 랭귀지
+* 이벤트 핸들러 지원
 * mdn SVG     
 https://developer.mozilla.org/ko/docs/Web/SVG
+* SVG 가이드   
+https://svgontheweb.com/ko/
 * d3.js   
 https://d3js.org/   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/d3.gif"></img>
@@ -66,11 +68,15 @@ https://d3js.org/
 |Internet Explorer|ie9 이상|
 |Others           |ok   |
 
+* 이벤트 핸들러 지원안함(필요한경우 직접 구현하거나 라이브러리 사용해야함)
+* .png나 .jpg로 이미지 저장가능
 * mdn canvas      
 https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
 * phaser (canvas game engine)   
 https://phaser.io/   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/phaser.gif"></img>
+
+### SVG vs Canvas
 
 ## 3D
 
