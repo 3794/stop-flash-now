@@ -40,7 +40,7 @@ https://9to5google.com/2019/03/22/chrome-warn-flash-player-deprecation-july/
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
-|Others           |ok   |
+|Others           |ok     |
 
 * mdn css transform   
 https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
@@ -53,7 +53,7 @@ https://www.codingfactory.net/10939
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
-|Others           |ok   |
+|Others           |ok     |
 
 * 벡터 그래픽을 표현하기 위한 표준 XML 마크업 랭귀지
 * 이벤트 핸들러 지원
@@ -70,7 +70,7 @@ https://d3js.org/
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
-|Others           |ok   |
+|Others           |ok     |
 
 * 이벤트 핸들러 지원안함(필요한경우 직접 구현하거나 라이브러리 사용해야함)
 * .png나 .jpg로 이미지 저장가능
@@ -94,10 +94,10 @@ https://smus.com/canvas-vs-svg-performance/
 ## 3D
 
 ### 1. CSS 3D Transforms
-|Desktop Browser  |note   |
-|-----------------|-------|
+|Desktop Browser  |note           |
+|-----------------|---------------|
 |Internet Explorer|ie10 이상 부분지원|
-|Others           |ok   |
+|Others           |ok             |
 * mdn css transform   
 https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 * css-tricks demo   
@@ -125,6 +125,37 @@ https://threejs.org/
 http://greggman.github.io/tdl/example/example.html   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/tdl.gif"></img>
 
+## Video
+|Desktop Browser  |note    |
+|-----------------|--------|
+|Internet Explorer|ie9 이상 |
+|Others           |ok      |
+
+html video element
+```html
+<video src="videofile.ogg" autoplay poster="posterimage.jpg"></video>
+```
+
+* mdn video element   
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/Video
+* 익스플로러를 포함하여 모든 브라우저에서 사용가능한 비디오 파일 포멧은 H.264(MP4) 이다
+* https://en.wikipedia.org/wiki/HTML5_video
+
+## Audio
+|Desktop Browser  |note    |
+|-----------------|--------|
+|Internet Explorer|ie9 이상 |
+|Others           |ok      |
+
+html audio element
+```html
+<audio controls src="t-rex-roar.mp3"></audio>
+```
+* mdn audio element   
+https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio
+* 익스플로러를 포함하여 모든 브라우저에서 사용가능한 오디오 파일 포멧은 MP3, AAC(MP4) 이다
+* https://en.wikipedia.org/wiki/HTML5_audio#Supported_audio_coding_formats    
+* https://zetawiki.com/wiki/HTML5_audio_%EC%A7%80%EC%9B%90_%ED%8C%8C%EC%9D%BC%ED%98%95%EC%8B%9D   
 
 ## 그외
 ### WebAssembly
