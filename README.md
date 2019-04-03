@@ -157,7 +157,15 @@ https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio
 * https://en.wikipedia.org/wiki/HTML5_audio#Supported_audio_coding_formats    
 * https://zetawiki.com/wiki/HTML5_audio_%EC%A7%80%EC%9B%90_%ED%8C%8C%EC%9D%BC%ED%98%95%EC%8B%9D   
 
+
+## Network
+### WebSocket
+
+### WebRTC
+
 ## 그외
+### Web Worker
+
 ### WebAssembly
 |Desktop Browser  |note   |
 |-----------------|-------|
