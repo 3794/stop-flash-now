@@ -1,9 +1,8 @@
-# Stop Flash Now
-## 플래시를 없애자!
+# 플래시를 없애자!
 
 Adobe는 2020년 말에 Flash Player를 업데이트 하고 배포하는것을 중단하기로 하였습니다. 크롬은 2020년 12월에 플래시를 크롬에서 제거하기로 하였습니다. 2020년 까지 관련 뉴스를 정리하고, 플래시를 대체하는 기술들에 대해 소개합니다.
 
-## News
+# News
 * Microsoft IE 10 이하 지원 중단   
 https://www.microsoft.com/ko-kr/windowsforbusiness/end-of-ie-support
    >  2016년 1월 12일 이후로 Microsoft는 이전 버전의 Internet Explorer에 대한 보안 업데이트나 기술 지원을 전혀 제공하지 않을 것입니다. 악성 코드가 악용할 수 있는 보안 취약점을 차단하고 사용자와 데이터를 보다 안전하게 보호하려면 보안 업데이트가 반드시 필요합니다.
@@ -34,9 +33,9 @@ https://9to5google.com/2019/03/22/chrome-warn-flash-player-deprecation-july/
 
 
 
-## 2D
+# 2D
 
-### 1. CSS 2D Transforms
+## 1. CSS 2D Transforms
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
@@ -49,7 +48,7 @@ https://www.codingfactory.net/10939
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/css-animation-transform-scale-01.gif"></img>
 
 
-### 2. SVG
+## 2. SVG
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
@@ -66,7 +65,7 @@ https://d3js.org/
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/d3.gif"></img>
 
 
-### 3. Canvas
+## 3. Canvas
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|ie9 이상|
@@ -80,7 +79,7 @@ https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
 https://phaser.io/   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/phaser.gif"></img>
 
-### SVG vs Canvas
+## SVG vs Canvas
 https://smus.com/canvas-vs-svg-performance/   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/varying-number-of-objects.png"></img>     
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/varying-drawing-area-height.png"></img>     
@@ -91,9 +90,9 @@ https://smus.com/canvas-vs-svg-performance/
 * 수천개의 오브젝트를 조작하려면 canvas가 좋다
 
 
-## 3D
+# 3D
 
-### 1. CSS 3D Transforms
+## 1. CSS 3D Transforms
 |Desktop Browser  |note           |
 |-----------------|---------------|
 |Internet Explorer|ie10 이상 부분지원|
@@ -107,7 +106,7 @@ https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/
 
 
 
-### 2. WebGL
+## 2. WebGL
 |Desktop Browser  |note    |
 |-----------------|--------|
 |Internet Explorer|ie11 이상|
@@ -125,7 +124,7 @@ https://threejs.org/
 http://greggman.github.io/tdl/example/example.html   
 <img src="https://github.com/3794/stop-flash-now/blob/master/assets/tdl.gif"></img>
 
-## Video
+# Video
 |Desktop Browser  |note    |
 |-----------------|--------|
 |Internet Explorer|ie9 이상 |
@@ -141,7 +140,7 @@ https://developer.mozilla.org/ko/docs/Web/HTML/Element/Video
 * 익스플로러를 포함하여 모든 브라우저에서 사용가능한 비디오 파일 포멧은 H.264(MP4) 이다
 * https://en.wikipedia.org/wiki/HTML5_video
 
-## Audio
+# Audio
 |Desktop Browser  |note    |
 |-----------------|--------|
 |Internet Explorer|ie9 이상 |
@@ -158,15 +157,15 @@ https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio
 * https://zetawiki.com/wiki/HTML5_audio_%EC%A7%80%EC%9B%90_%ED%8C%8C%EC%9D%BC%ED%98%95%EC%8B%9D   
 
 
-## Network
-### WebSocket
+# Network
+## WebSocket
 
-### WebRTC
+## WebRTC
 
-## 그외
-### Web Worker
+# 그외
+## Web Worker
 
-### WebAssembly
+## WebAssembly
 |Desktop Browser  |note   |
 |-----------------|-------|
 |Internet Explorer|지원안함 |
