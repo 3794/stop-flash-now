@@ -71,7 +71,7 @@ https://d3js.org/
 |Internet Explorer|ie9 이상|
 |Others           |ok     |
 
-* 이벤트 핸들러 지원안함(필요한경우 직접 구현하거나 라이브러리 사용해야함)
+* 오브젝트의 이벤트 핸들러 지원안함
 * .png나 .jpg로 이미지 저장가능
 * mdn canvas      
 https://developer.mozilla.org/ko/docs/Web/HTML/Canvas
@@ -93,10 +93,10 @@ https://smus.com/canvas-vs-svg-performance/
 # 3D
 
 ## 1. CSS 3D Transforms
-|Desktop Browser  |note           |
-|-----------------|---------------|
-|Internet Explorer|ie10 이상 부분지원|
-|Others           |ok             |
+|Desktop Browser  |note     |
+|-----------------|---------|
+|Internet Explorer|ie10 이상 |
+|Others           |ok       |
 * mdn css transform   
 https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 * css-tricks demo   
@@ -164,6 +164,15 @@ https://developer.mozilla.org/ko/docs/Web/HTML/Element/audio
 
 # 그외
 ## Web Worker
+|Desktop Browser  |note    |
+|-----------------|--------|
+|Internet Explorer|ie10 이상|
+|Others           |ok      |
+
+* 웹 워커는 백그라운드 스레드에서 스크립트를 실행할 수 있다.
+* 복잡한 계산이나 UI 쓰레드 방해 없이 지속적으로 수행해야 하는 작업에 활용할 수 있다.
+* mdn 웹워커 사용하기
+https://developer.mozilla.org/ko/docs/Web/API/Web_Workers_API/basic_usage
 
 ## WebAssembly
 |Desktop Browser  |note   |
